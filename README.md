@@ -18,3 +18,5 @@ Projekt kalkualtor macierzy
 ------------ | ------------------- | ---------------
 dodawanie | odejmowanie | mnozenie
 '+' | '-' | '*'
+
+![cat](/animal/cat.jpg)
